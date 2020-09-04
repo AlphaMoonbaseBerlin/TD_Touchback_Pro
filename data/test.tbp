@@ -1,3 +1,4 @@
-{   "Tox"       :   "test_comp.tox",
+{   "Label"     :   "Test 1",
+    "Tox"       :   "test_comp.tox",
     "Variables" :   {"Speed": 0.4}
 }

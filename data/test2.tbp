@@ -1,4 +1,4 @@
-{   "Comment"   :   "Test Comp2",
+{   "Label"   :   "Test Comp2",
     "Tox"       :   "test_comp.tox",
     "Variables" :   {"Speed": 1}
 }
