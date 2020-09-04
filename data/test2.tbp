@@ -1,3 +1,4 @@
-{   "Tox"       :   "test_comp.tox",
+{   "Comment"   :   "Test Comp2",
+    "Tox"       :   "test_comp.tox",
     "Variables" :   {"Speed": 1}
 }
