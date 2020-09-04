@@ -1,0 +1,3 @@
+{   "Tox"       :   "test_comp.tox",
+    "Variables" :   {"Speed": 0.4}
+}
