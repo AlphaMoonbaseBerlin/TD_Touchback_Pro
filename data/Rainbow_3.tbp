@@ -1,0 +1,18 @@
+{
+    "Label": "Rainbow Fun",
+    "Tox": "3D_Rainbow_Tunnel.tox",
+    "Variables": {
+        "Resolution1": 1920,
+        "Resolution2": 1080,
+        "Length": 1790,
+        "Torange1": 0.0,
+        "Torange2": 270.0,
+        "Torange31": 3.0,
+        "Torange32": -29.0,
+        "Torange41": 0.09999999999999998,
+        "Torange42": 1.0,
+        "Divs": 3,
+        "Fov": 9.800000190734863,
+        "Speed": 1.0
+    }
+}

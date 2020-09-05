@@ -1,0 +1,7 @@
+{
+    "Label": "Test 123",
+    "Tox": "test_comp.tox",
+    "Variables": {
+        "Speed": 3.0
+    }
+}
