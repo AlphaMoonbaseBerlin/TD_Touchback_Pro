@@ -1,0 +1,18 @@
+{
+    "Label": "Rectangle Tunnel",
+    "Tox": "3D_Rainbow_Tunnel.tox",
+    "Variables": {
+        "Resolution1": 1280,
+        "Resolution2": 720,
+        "Length": 15,
+        "Torange1": 0.0,
+        "Torange2": 360.0,
+        "Torange31": 0.0,
+        "Torange32": 10.0,
+        "Torange41": -0.10000000000000009,
+        "Torange42": 1.0,
+        "Divs": 5,
+        "Fov": 45.0,
+        "Speed": 1.0
+    }
+}

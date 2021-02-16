@@ -1,0 +1,7 @@
+{
+    "Label": "Rectangle Tunnel",
+    "Tox": "test_comp.tox",
+    "Variables": {
+        "Speed": 3.0
+    }
+}

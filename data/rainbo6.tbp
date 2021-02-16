@@ -1,0 +1,18 @@
+{
+    "Label": "Example",
+    "Tox": "3D_Rainbow_Tunnel.tox",
+    "Variables": {
+        "Resolution1": 1920,
+        "Resolution2": 1080,
+        "Length": 5,
+        "Torange1": 0.0,
+        "Torange2": 270.0,
+        "Torange31": 3.0,
+        "Torange32": -29.0,
+        "Torange41": 1.0,
+        "Torange42": 1.0,
+        "Divs": 4,
+        "Fov": 32.599998474121094,
+        "Speed": 2.2769999504089355
+    }
+}
